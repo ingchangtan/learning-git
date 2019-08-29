@@ -3,4 +3,12 @@ Hello World!
 Hello World!
 Hello World!
 Hello 123!
+<<<<<<< HEAD
 hello 4
+=======
+hello 973!
+Hello 7!duhd
+
+X1
+x2
+>>>>>>> x
