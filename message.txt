@@ -5,6 +5,7 @@ Hello World!
 Hello 123!
 hello 4
 hello 973!
+<<<<<<< HEAD
 Hello 7!duhd
 
 X1
@@ -12,3 +13,7 @@ x2
 Hello 7!
 Y1
 Y2Y3
+=======
+Hello 7!
+hello Z
+>>>>>>> z
